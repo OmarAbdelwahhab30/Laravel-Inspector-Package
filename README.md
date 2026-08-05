@@ -135,12 +135,12 @@ The extension is not on the Chrome Web Store — you add it yourself in about a 
 
 ### 1. Download the extension
 
-**[⬇ Download the ZIP](https://github.com/OmarAbdelwahhab30/Laravel-Inspector/archive/refs/heads/main.zip)** and unzip it anywhere you like — your Desktop is fine. Inside you'll find a folder called **`extension`**. That's the one you need.
+**[⬇ Download the ZIP](https://github.com/OmarAbdelwahhab30/Laravel-Inspector-Extension/archive/refs/heads/main.zip)** and unzip it anywhere you like — your Desktop is fine.
 
 Prefer git? Then:
 
 ```bash
-git clone https://github.com/OmarAbdelwahhab30/Laravel-Inspector.git
+git clone https://github.com/OmarAbdelwahhab30/Laravel-Inspector-Extension.git0
 ```
 
 > Keep the folder somewhere permanent. Chrome loads the extension from this folder every time it starts — if you delete or move it, the extension disappears.
