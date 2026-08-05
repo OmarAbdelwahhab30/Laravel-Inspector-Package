@@ -1,0 +1,25 @@
+{
+    "id": "a63868ba-700b-4a29-9872-ba75458d2967",
+    "request": {
+        "method": "OPTIONS",
+        "url": "__devtools\/request\/8d076fb9-f0ea-494f-847f-ec28ce732452",
+        "route": {
+            "uri": "__devtools\/request\/8d076fb9-f0ea-494f-847f-ec28ce732452",
+            "name": null
+        }
+    },
+    "controller": {
+        "class": null,
+        "method": null,
+        "file": null,
+        "line": null
+    },
+    "response": {
+        "status": 200,
+        "duration": 410.29
+    },
+    "queries": [],
+    "events": [],
+    "jobs": [],
+    "timeline": []
+}

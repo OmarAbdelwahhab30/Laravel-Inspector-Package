@@ -1,0 +1,22 @@
+{
+    "id": "5e823037-ee77-470e-b51a-d45a00dfd789",
+    "request": {
+        "method": "GET",
+        "url": ".well-known\/appspecific\/com.chrome.devtools.json",
+        "route": null
+    },
+    "controller": {
+        "class": null,
+        "method": null,
+        "file": null,
+        "line": null
+    },
+    "response": {
+        "status": 404,
+        "duration": 16.44
+    },
+    "queries": [],
+    "events": [],
+    "jobs": [],
+    "timeline": []
+}

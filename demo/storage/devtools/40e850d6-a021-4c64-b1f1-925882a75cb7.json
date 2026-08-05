@@ -1,0 +1,25 @@
+{
+    "id": "40e850d6-a021-4c64-b1f1-925882a75cb7",
+    "request": {
+        "method": "GET",
+        "url": "__devtools\/request\/fddcfb0e-21f9-44a5-8abd-b0e67ac8b32f",
+        "route": {
+            "uri": "__devtools\/request\/{id}",
+            "name": "devtools.request.show"
+        }
+    },
+    "controller": {
+        "class": "OmarAbdulwahhab\\LaravelInspector\\Http\\DevtoolsController",
+        "method": "show",
+        "file": "D:\\Laravel Inspector\\package\\src\\Http\\DevtoolsController.php",
+        "line": 11
+    },
+    "response": {
+        "status": 200,
+        "duration": 2.21
+    },
+    "queries": [],
+    "events": [],
+    "jobs": [],
+    "timeline": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "e92eef08-5ef2-4bdc-957f-4c9b9fb9bc10",
+    "request": {
+        "method": "GET",
+        "url": "__devtools\/open-editor",
+        "route": {
+            "uri": "__devtools\/open-editor",
+            "name": "devtools.open-editor"
+        }
+    },
+    "controller": {
+        "class": "OmarAbdulwahhab\\LaravelInspector\\Http\\OpenEditorController",
+        "method": "open",
+        "file": "D:\\Laravel Inspector\\package\\src\\Http\\OpenEditorController.php",
+        "line": 12
+    },
+    "response": {
+        "status": 422,
+        "duration": 1019.43
+    },
+    "queries": [],
+    "events": [],
+    "jobs": [],
+    "timeline": []
+}

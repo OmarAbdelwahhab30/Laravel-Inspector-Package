@@ -1,0 +1,41 @@
+{
+    "name": "omarabdulwahhab/laravel-inspector",
+    "description": "Laravel-aware network debugger backend: tags responses with a request ID and exposes a debug snapshot endpoint (controller, route, response, and future SQL/events/jobs/cache/logs data) for the companion Chrome extension.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["laravel", "devtools", "debugbar", "chrome-extension", "profiler"],
+    "authors": [
+        {
+            "name": "Omar Abdulwahhab"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^10.0|^11.0|^12.0",
+        "illuminate/http": "^10.0|^11.0|^12.0",
+        "illuminate/console": "^10.0|^11.0|^12.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.0|^9.0|^10.0",
+        "phpunit/phpunit": "^10.0|^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OmarAbdulwahhab\\LaravelInspector\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "OmarAbdulwahhab\\LaravelInspector\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OmarAbdulwahhab\\LaravelInspector\\LaravelInspectorServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

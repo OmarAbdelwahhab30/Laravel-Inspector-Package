@@ -1,0 +1,25 @@
+{
+    "id": "99e0db6d-f811-4a22-87a7-6e71f61e1c9c",
+    "request": {
+        "method": "GET",
+        "url": "__devtools\/open-editor",
+        "route": {
+            "uri": "__devtools\/open-editor",
+            "name": "devtools.editor.open"
+        }
+    },
+    "controller": {
+        "class": null,
+        "method": null,
+        "file": null,
+        "line": null
+    },
+    "response": {
+        "status": 200,
+        "duration": 81.47
+    },
+    "queries": [],
+    "events": [],
+    "jobs": [],
+    "timeline": []
+}

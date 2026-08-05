@@ -1,0 +1,25 @@
+{
+    "id": "7f2b8512-dec6-4674-9589-2ac7537deb5d",
+    "request": {
+        "method": "GET",
+        "url": "api\/courses\/15",
+        "route": {
+            "uri": "api\/courses\/{course}",
+            "name": "courses.show"
+        }
+    },
+    "controller": {
+        "class": "App\\Http\\Controllers\\CourseController",
+        "method": "show",
+        "file": "D:\\Laravel Inspector\\package\\demo\\app\\Http\\Controllers\\CourseController.php",
+        "line": 9
+    },
+    "response": {
+        "status": 200,
+        "duration": 213.39
+    },
+    "queries": [],
+    "events": [],
+    "jobs": [],
+    "timeline": []
+}
