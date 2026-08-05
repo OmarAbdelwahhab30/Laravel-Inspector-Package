@@ -427,8 +427,4 @@ Then delete the leftovers if you want a clean slate:
 - `storage/devtools/`
 - the `LARAVEL_DEVTOOLS_ENABLED` line in `.env`
 
----
 
-## License
-
-MIT. See [LICENSE](LICENSE).
