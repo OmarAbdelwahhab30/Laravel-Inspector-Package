@@ -1,6 +1,6 @@
 {
     "name": "omarabdulwahhab/laravel-inspector",
-    "description": "Laravel-aware network debugger backend: tags responses with a request ID and exposes a debug snapshot endpoint (controller, route, response, and future SQL/events/jobs/cache/logs data) for the companion Chrome extension.",
+    "description": "See exactly what your Laravel app did behind every HTTP request — the route, the controller, the SQL queries, the events, the queued jobs, and a timeline of it all.",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "devtools", "debugbar", "chrome-extension", "profiler"],
