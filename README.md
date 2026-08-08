@@ -51,7 +51,7 @@ Every request also gets a response header, `X-Laravel-Devtools-Request`, contain
 | Thing | Version |
 | --- | --- |
 | PHP | 8.1 or newer |
-| Laravel | 10, 11 or 12 |
+| Laravel | 10, 11, 12 or 13 |
 | Browser (for the extension only) | Google Chrome / Edge / Brave |
 
 ---
