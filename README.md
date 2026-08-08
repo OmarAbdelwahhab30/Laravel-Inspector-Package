@@ -140,7 +140,7 @@ The extension is not on the Chrome Web Store — you add it yourself in about a 
 Prefer git? Then:
 
 ```bash
-git clone https://github.com/OmarAbdelwahhab30/Laravel-Inspector-Extension.git0
+git clone https://github.com/OmarAbdelwahhab30/Laravel-Inspector-Extension.git
 ```
 
 > Keep the folder somewhere permanent. Chrome loads the extension from this folder every time it starts — if you delete or move it, the extension disappears.
